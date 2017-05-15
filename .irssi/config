@@ -198,9 +198,6 @@ settings = {
     beep_msg_level = "MSGS NOTICES DCC DCCMSGS HILIGHT";
     term_charset = "utf-8";
   };
-  "perl/core/scripts" = {
-    autorejoin_channels = "#comeontoshi #sadtortilla #vive-pistone";
-  };
 };
 logs = { };
 hilights = ( { text = "0x44"; nick = "yes"; word = "yes"; } );
