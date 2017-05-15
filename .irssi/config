@@ -194,7 +194,6 @@ settings = {
     autolog_path = "~/irclogs/%Y/$tag/$0.%m-%d.log";
     window_history = "yes";
     activity_hide_level = "JOINS PARTS NICKS QUITS";
-    bell_beeps = "yes";
     beep_msg_level = "MSGS NOTICES DCC DCCMSGS HILIGHT";
     term_charset = "utf-8";
   };
