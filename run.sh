@@ -6,4 +6,4 @@ tmux new -d -s irc 'docker run -it \
 			-v irclogs:/home/user/irclogs \
 			-v $HOME/.irssi:/home/user/.irssi:ro \
 			-v /etc/localtime:/etc/localtime:ro \
-			irssi'
+			jess/irssi'
